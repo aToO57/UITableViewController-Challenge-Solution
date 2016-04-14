@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ATOTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by aTo on 14/04/2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ATOTableViewController : UITableViewController
 
 @end
-
